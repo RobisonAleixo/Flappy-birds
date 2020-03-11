@@ -1,0 +1,23 @@
+{
+  "name": "flappy-bird",
+  "version": "1.0.0",
+  "description": "Jogo: Flappy-bird feito com Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobisonAleixo/flappy-birds.git"
+  },
+  "keywords": [
+    "flappy-bird",
+    "javascript"
+  ],
+  "author": "Robison Aleixo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RobisonAleixo/flappy-birds/issues"
+  },
+  "homepage": "https://github.com/RobisonAleixo/flappy-birds#readme"
+}
